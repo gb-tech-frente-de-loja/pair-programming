@@ -45,11 +45,28 @@ Lembre-se de seguir essas diretrizes para garantir uma sessão de Pair Programmi
 
 ### 1. 🌐 Deixar o ambiente devidamente configurado
 
+#### - Se a vaga for para `Mobile Flutter`, segue alguns `pré-requisitos`
+
 Antes de começar, certifique-se de ter os seguintes itens instalados e funcionando corretamente:
 
 1. [Flutter SDK](https://flutter.dev/docs/get-started/install) - Verifique se a versão do Flutter SDK é a Stable. Você pode verificar a versão do Flutter executando `flutter --version` no terminal.
 2. [Android Studio](https://developer.android.com/studio/install) ou 🍏 [Xcode](https://developer.apple.com/xcode/) configurado.
 3. Uma IDE configurada, como [VS Code](https://code.visualstudio.com/) ou [Android Studio](https://developer.android.com/studio)
+
+Para adicionar ao passo a passo a instalação do "nest cli" e ter um banco de dados local instalado, você pode modificar o texto da seguinte forma:
+
+---
+
+#### - Se a vaga for para `Backend Node`, segue alguns `pré-requisitos`
+
+Antes de começar, certifique-se de ter os seguintes itens instalados e funcionando corretamente:
+
+1. [Node.js](https://nodejs.org/en/) - Verifique se a versão do Node.js é a mais recente. Você pode verificar a versão do Node.js executando `node --version` no terminal.
+2. [NPM](https://www.npmjs.com/) - O NPM é o gerenciador de pacotes do Node.js e é necessário para instalar as dependências do projeto. Verifique se a versão do NPM é a mais recente executando `npm --version` no terminal.
+3. [Nest CLI](https://docs.nestjs.com/cli/overview) - O Nest CLI é uma ferramenta de linha de comando para o NestJS.
+4. **Banco de Dados Local** - Configure um banco de dados local adequado para o seu projeto, como PostgreSQL, MySQL, MongoDB, etc. Certifique-se de que o banco de dados esteja instalado e configurado corretamente antes de prosseguir com o desenvolvimento.
+
+5. Uma IDE configurada, como [VS Code](https://code.visualstudio.com/) ou qualquer outra de sua preferência configurada para desenvolvimento Node.js.
 
 ### 2. 📧 Compartilhar nome de usuário do GitHub
 
@@ -57,6 +74,6 @@ Antes da sessão de pair programming, por favor, compartilhe seu nome de usuári
 
 ---------
 
-## 🍀 Te desejamos uma boa sorte!
+## 🍀 Te desejamos uma boa sorte
 
 Agora que você está familiarizado com o que será avaliado e os pré-requisitos necessários, você está pronto para começar. Lembre-se, o objetivo é aprender e crescer, então dê o seu melhor e aproveite o processo. Estamos ansiosos para ver o que você vai criar. Boa sorte!
